@@ -1,0 +1,11 @@
+{
+  "prettier": {
+    "allowed": true,
+  },
+  "languages": {
+    "HTML": {
+      "format_on_save": "off",
+      "formatter": "language_server",
+    },
+  },
+}
